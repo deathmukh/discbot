@@ -12,7 +12,6 @@ target/
 *.iml
 *.ipr
 
-# Ignore .env files
 .env
 
 ### Eclipse ###
