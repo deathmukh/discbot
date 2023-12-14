@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a63d8d74-6ae2-4180-834c-0e9aed32adfb" name="Changes" comment="command logic">
+    <list default="true" id="a63d8d74-6ae2-4180-834c-0e9aed32adfb" name="Changes" comment="env ignored">
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,12 +120,20 @@
       <option name="project" value="LOCAL" />
       <updated>1702566166842</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="env ignored">
+      <created>1702567707724</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702567707724</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="slash commands" />
     <MESSAGE value="command logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="command logic" />
+    <MESSAGE value="env ignored" />
+    <option name="LAST_COMMIT_MESSAGE" value="env ignored" />
   </component>
 </project>
